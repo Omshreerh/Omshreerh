@@ -1,1 +1,2 @@
-# HI I AM AN IDIOT.
+Hello!
+I am Omshree, a final year Information Science student at Ramaiah Institute of Technology
